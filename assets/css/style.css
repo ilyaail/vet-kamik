@@ -294,9 +294,7 @@ a:hover{
 .info{
   font-size: 16px;
 }
-.index{
-  z-index: 99999;
-}
+
 
 .colored{
   color:#7e96a2 !important;
@@ -481,6 +479,23 @@ ul.acc-list > li.panel{
   border-top: 1px solid #efefef;
   cursor: pointer;
 }
+.modal-header h5{
+  font-size: 24px;
+  color: #7e96a2;
+}
+.btn-buy-form{
+  text-transform: uppercase;
+  box-shadow: 1px 3px 3px rgba(33, 33, 33, .5);
+  font-size: 14px;
+  color: #fff;
+  background: #6384a2;
+  min-height: 44px;
+  min-width: 113px;
+}
+
+
+
+
 @media only screen and (max-width: 767px){
  #to__top__button{
 
